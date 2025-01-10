@@ -19,9 +19,9 @@ export function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex">
             {/* Logo */}
-            <div className="flex items-center flex-shrink-0">
+            <div className="flex flex-shrink-0 items-center">
               <span className="text-xl font-bold text-indigo-600">
-                {language === 'zh' ? '健身工廠' : 'Fitness Factory'}
+                {language === 'zh' ? '健身教練系統' : 'Fitness Tracker System'}
               </span>
             </div>
 
@@ -49,7 +49,7 @@ export function Navbar() {
             <select
               value={language}
               onChange={(e) => setLanguage(e.target.value as 'zh' | 'en')}
-              className="px-2 py-1 text-sm border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-500"
+              className="px-2 py-1 text-sm rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-indigo-500"
             >
               <option value="zh">中文</option>
               <option value="en">English</option>
