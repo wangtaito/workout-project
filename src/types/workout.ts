@@ -23,3 +23,12 @@ export interface WorkoutEvent {
   completed: boolean;
   record?: WorkoutRecord;
 }
+
+export interface ExerciseVideo {
+  id: string;
+  title: string;
+  url: string;
+  description?: string;
+  createdAt: string;
+  updatedAt: string;
+}

@@ -11,6 +11,10 @@ export function Navbar() {
     { path: '/', label: language === 'zh' ? '儀表板' : 'Dashboard' },
     { path: '/records', label: language === 'zh' ? '運動記錄' : 'Workout Records' },
     { path: '/videos', label: language === 'zh' ? '運動視頻' : 'Exercise Videos' },
+    ...(user?.role === 'admin' ? [{
+      path: '/user-management',
+      label: language === 'zh' ? '用戶管理' : 'User Management'
+    }] : [])
   ];
 
   return (

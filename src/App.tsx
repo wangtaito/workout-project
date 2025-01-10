@@ -8,6 +8,7 @@ import { DashboardPage } from './pages/DashboardPage';
 import { Navbar } from './components/layout/Navbar';
 import { ExerciseVideosPage } from './pages/ExerciseVideosPage';
 import { WorkoutRecordsPage } from './pages/WorkoutRecordsPage';
+import { UserManagementPage } from './pages/UserManagementPage';
 
 function PrivateRoute({ children }: { children: React.ReactNode }) {
   const { user } = useAuth();
@@ -54,6 +55,14 @@ function AppContent() {
                 <ExerciseVideosPage />
               </PrivateRoute>
             }
+          />
+          <Route 
+            path="/user-management" 
+            element={
+              <PrivateRoute>
+                <UserManagementPage />
+              </PrivateRoute>
+            } 
           />
         </Routes>
       </div>

@@ -1,10 +1,13 @@
 import { Outlet } from 'react-router-dom';
 import { Navigation } from './Navigation';
+import React from 'react';
 
 /**
- * Layout 函数组件，用于创建应用的整体布局。
+ * 布局组件
  *
- * @returns 返回应用的整体布局 JSX 元素。
+ * 返回整个页面的布局结构，包含导航栏和主要内容区域
+ *
+ * @returns 返回包含导航栏和主要内容区域的 JSX 元素
  */
 export function Layout() {
   return (
