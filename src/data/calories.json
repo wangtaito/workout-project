@@ -1,0 +1,31 @@
+{
+  "vegetables": {
+    "leafy": { "amount": 100, "calories": 35 },
+    "cruciferous": { "amount": 100, "calories": 35 },
+    "other": { "amount": 100, "calories": 35 }
+  },
+  "proteins": {
+    "chicken": { "amount": 100, "calories": 165 },
+    "fish": { "amount": 100, "calories": 150 },
+    "tofu": { "amount": 100, "calories": 80 },
+    "egg": { "amount": 100, "calories": 155 },
+    "beef": { "amount": 100, "calories": 250 },
+    "pork": { "amount": 100, "calories": 240 }
+  },
+  "starches": {
+    "rice": { "amount": 85, "calories": 100 },
+    "noodles": { "amount": 85, "calories": 110 },
+    "potato": { "amount": 100, "calories": 90 },
+    "sweetPotato": { "amount": 100, "calories": 95 },
+    "bread": { "amount": 50, "calories": 120 }
+  },
+  "condiments": {
+    "oil": { "amount": 15, "calories": 120 },
+    "sauce": { "amount": 15, "calories": 30 }
+  },
+  "beverages": {
+    "milk": { "amount": 240, "calories": 120 },
+    "juice": { "amount": 240, "calories": 110 },
+    "soda": { "amount": 240, "calories": 140 }
+  }
+} 

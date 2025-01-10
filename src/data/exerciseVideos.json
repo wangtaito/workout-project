@@ -1,0 +1,109 @@
+{
+  "categories": [
+    "全部",
+    "高强度间歇训练 (HIIT)",
+    "放松练习",
+    "心肺功能提升",
+    "肌肉放松与恢复",
+    "力量训练",
+    "灵活性与柔韧性",
+    "平衡与协调",
+    "特殊人群适用",
+    "户外活动",
+    "团体课程",
+    "儿童与青少年",
+    "其他"
+  ],
+  "videos": [
+    {
+      "id": "1",
+      "title": "30分鐘HIIT燃脂訓練",
+      "description": "30-Minute HIIT Cardio Workout with Warm Up - No Equipment at Home | SELF",
+      "thumbnailUrl": "https://img.youtube.com/vi/ml6cT4AZdqI/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=ml6cT4AZdqI",
+      "duration": "30:00",
+      "category": "高强度间歇训练 (HIIT)",
+      "level": "初級"
+    },
+    {
+      "id": "2",
+      "title": "居家徒手健身",
+      "description": "居家30分鐘全身性徒手運動 (無器材、無跳躍) At-home 30 min full body workout | no jumping and no equipment needed",
+      "thumbnailUrl": "https://img.youtube.com/vi/Cf_GaGllwJs/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=Cf_GaGllwJs",
+      "duration": "30:00",
+      "category": "力量训练",
+      "level": "中級"
+    },
+    {
+      "id": "3",
+      "title": "基礎瑜伽序列",
+      "description": "緩和的瑜伽動作序列，幫助提升柔軟度和身體覺知。",
+      "thumbnailUrl": "https://img.youtube.com/vi/kZE29LlQ8qc/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=kZE29LlQ8qc",
+      "duration": "30:00",
+      "category": "放松练习",
+      "level": "初級"
+    },
+    {
+      "id": "4",
+      "title": "15分鐘高效有氧運動",
+      "description": "快速高效的有氧运动，适合忙碌的生活方式。",
+      "thumbnailUrl": "https://img.youtube.com/vi/5lCmDnHxOjM/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=5lCmDnHxOjM",
+      "duration": "15:00",
+      "category": "心肺功能提升",
+      "level": "初級"
+    },
+    {
+      "id": "5",
+      "title": "全身拉伸放松",
+      "description": "全面的拉伸练习，帮助放松肌肉，减少酸痛。",
+      "thumbnailUrl": "https://img.youtube.com/vi/FXGpSbWd87o/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=FXGpSbWd87o",
+      "duration": "20:00",
+      "category": "肌肉放松与恢复",
+      "level": "初級"
+    },
+    {
+      "id": "6",
+      "title": "家庭核心力量训练",
+      "description": "无需器材的核心训练，增强腹部和背部肌肉。",
+      "thumbnailUrl": "https://img.youtube.com/vi/cPnRrAeLwqo/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=cPnRrAeLwqo",
+      "duration": "15:00",
+      "category": "力量训练",
+      "level": "中級"
+    },
+    {
+      "id": "7",
+      "title": "办公室瑜伽放松",
+      "description": "适合在工作间隙进行的简单瑜伽动作。",
+      "thumbnailUrl": "https://img.youtube.com/vi/sB8vOa3tN54/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=sB8vOa3tN54",
+      "duration": "10:00",
+      "category": "放松练习",
+      "level": "初級"
+    },
+    {
+      "id": "8",
+      "title": "户外跑步技巧",
+      "description": "学习正确的户外跑步姿势和技术要点。",
+      "thumbnailUrl": "https://img.youtube.com/vi/-0uAvkKUOoM/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=-0uAvkKUOoM",
+      "duration": "12:00",
+      "category": "户外活动",
+      "level": "中級"
+    },
+    {
+      "id": "9",
+      "title": "亲子趣味运动",
+      "description": "适合家长和孩子一起玩的趣味运动游戏。",
+      "thumbnailUrl": "https://img.youtube.com/vi/9v1QqZjZ7pM/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=9v1QqZjZ7pM",
+      "duration": "18:00",
+      "category": "儿童与青少年",
+      "level": "初級"
+    }
+  ]
+}
